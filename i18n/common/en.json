@@ -4,6 +4,7 @@
     "Yes": "Yes",
     "No": "No",
     "Greeting":{
-        "How Are You": "How are you ?"
+        "How Are You": "How are you ?",
+        "Hello": "Hello"
     }
 }
